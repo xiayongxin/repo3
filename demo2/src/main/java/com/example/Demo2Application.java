@@ -10,4 +10,7 @@ public class Demo2Application {
         SpringApplication.run(Demo2Application.class, args);
     }
 
+    public static add(){
+        return null;
+    }
 }
